@@ -15,10 +15,10 @@
 			
 body { margin:0; background-color:grey; }
 
-.player { margin-bottom:15px; }
+.player { margin-bottom:20px; }
 
 .player > iframe { border-color:black; }
 
-.title { margin: 20;
+.title { margin: 20px;
     font-size: 32px;
     font-weight: bold; }
