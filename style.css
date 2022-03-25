@@ -1,0 +1,24 @@
+ .buttons { 
+		    
+			 }
+			
+.button1 , .button2 , .button3 { 
+			background-color: black;
+			width: 68px;
+			padding: 5px;
+			border-radius: 25px;
+			display:inline-block;
+			}
+			
+
+.btn > a { color:white; text-decoration:none; }
+			
+body { margin:0; background-color:grey; }
+
+.player { margin-bottom:15px; }
+
+.player > iframe { border-color:black; }
+
+.title { margin: 20;
+    font-size: 32px;
+    font-weight: bold; }
